@@ -1,1 +1,1 @@
-### Technical interview and hacksession with Camunda.
+Technical interview and hacksession with Camunda
